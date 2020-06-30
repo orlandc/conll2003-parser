@@ -1,6 +1,6 @@
 Sentence #,Word,POS,Tag
-,Melbourne,NP,B-LOC
-Sentence: 1,(,Fpa,O
+Sentence: 1,Melbourne,NP,B-LOC
+,(,Fpa,O
 ,Australia,NP,B-LOC
 ,),Fpt,O
 ,",",Fc,O

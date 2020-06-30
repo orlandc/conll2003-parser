@@ -1,6 +1,6 @@
 Sentence #,Word,POS,Tag
-,Sao,NC,B-LOC
-Sentence: 1,Paulo,VMI,I-LOC
+Sentence: 1,Sao,NC,B-LOC
+,Paulo,VMI,I-LOC
 ,(,Fpa,O
 ,Brasil,NC,B-LOC
 ,),Fpt,O

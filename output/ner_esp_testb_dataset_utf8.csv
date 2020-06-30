@@ -1,6 +1,6 @@
 Sentence #,Word,POS,Tag
-,La,DA,B-LOC
-Sentence: 1,Coruña,NC,I-LOC
+Sentence: 1,La,DA,B-LOC
+,Coruña,NC,I-LOC
 ,",",Fc,O
 ,23,Z,O
 ,may,NC,O
